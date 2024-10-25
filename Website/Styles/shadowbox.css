@@ -1,0 +1,51 @@
+#sb-title-inner,#sb-info-inner,#sb-loading-inner,div.sb-message{font-family:"HelveticaNeue-Light","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:200;color:#fff;}
+#sb-container{position:fixed;margin:0;padding:0;top:0;left:0;z-index:999;text-align:left;visibility:hidden;display:none;z-index: 9000;}
+#sb-overlay{position:relative;height:100%;width:100%;}
+#sb-wrapper{position:absolute;visibility:hidden;width:100px;}
+#sb-wrapper-inner{position:relative;border:1px solid #303030;overflow:hidden;height:100px;}
+#sb-body{position:relative;height:100%;}
+#sb-body-inner{position:absolute;height:100%;width:100%;}
+#sb-player.html{height:100%;overflow:auto;}
+#sb-body img{border:none;}
+#sb-loading{position:relative;height:100%;}
+#sb-loading-inner{position:absolute;font-size:14px;line-height:24px;height:24px;top:50%;margin-top:-12px;width:100%;text-align:center;}
+#sb-loading-inner span{background:url(https://web.archive.org/web/20111001031825im_/http://www.hyundaiusa.com/videos/shadowbox/loading.gif) no-repeat;padding-left:34px;display:inline-block;}
+#sb-body,#sb-loading{background-color:#060606;}
+#sb-title,#sb-info{position:relative;margin:0;padding:0;overflow:hidden;}
+#sb-title,#sb-title-inner{height:26px;line-height:26px;}
+#sb-title-inner{font-size:16px;}
+#sb-info,#sb-info-inner{height:20px;line-height:20px;}
+#sb-info-inner{font-size:12px;}
+#sb-nav{float:right;height:16px;padding:2px 0;width:45%;}
+#sb-nav a{display:block;float:right;height:16px;width:16px;margin-left:3px;cursor:pointer;background-repeat:no-repeat;}
+#sb-nav-close{background-image:url(https://web.archive.org/web/20111001031825im_/http://www.hyundaiusa.com/videos/shadowbox/close.png);}
+#sb-nav-next{background-image:url(https://web.archive.org/web/20111001031825im_/http://www.hyundaiusa.com/videos/shadowbox/next.png);}
+#sb-nav-previous{background-image:url(https://web.archive.org/web/20111001031825im_/http://www.hyundaiusa.com/videos/shadowbox/previous.png);}
+#sb-nav-play{background-image:url(https://web.archive.org/web/20111001031825im_/http://www.hyundaiusa.com/videos/shadowbox/play.png);}
+#sb-nav-pause{background-image:url(https://web.archive.org/web/20111001031825im_/http://www.hyundaiusa.com/videos/shadowbox/pause.png);}
+#sb-counter{float:left;width:45%;}
+#sb-counter a{padding:0 4px 0 0;text-decoration:none;cursor:pointer;color:#fff;}
+#sb-counter a.sb-counter-current{text-decoration:underline;}
+div.sb-message{font-size:12px;padding:10px;text-align:center;}
+div.sb-message a:link,div.sb-message a:visited{color:#fff;text-decoration:underline;}
+
+/*
+     FILE ARCHIVED ON 03:18:25 Oct 01, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:35:40 Oct 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.605
+  exclusion.robots: 0.021
+  exclusion.robots.policy: 0.009
+  esindex: 0.011
+  cdx.remote: 6.5
+  LoadShardBlock: 49.813 (3)
+  PetaboxLoader3.datanode: 214.229 (4)
+  load_resource: 1473.77
+  PetaboxLoader3.resolve: 1268.833
+*/
